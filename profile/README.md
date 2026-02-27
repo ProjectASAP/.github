@@ -1,12 +1,10 @@
-## Hi there 👋
+ ## ProjectASAP
 
-<!--
+Data analytics and observability is broken. Ingest incessantly, slow dashboards, costly infrastructure bills.
+ProjectASAP is the next frontier in better, faster, and cheaper data pipelines to support the next generation of analytics and observability, at machine-timescales.
 
-**Here are some ideas to get you started:**
+Website: [projectasap.github.io](https://projectasap.github.io)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Projects
+- ASAPQuery — Drop-in accelerator for analytics queries *(coming soon)*
+- [FlinkSketch](https://github.com/ProjectASAP/FlinkSketch) — Democratizing sketch-based processing for Apache Flink
