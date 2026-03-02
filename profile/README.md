@@ -6,5 +6,5 @@ ProjectASAP is the next frontier in better, faster, and cheaper data pipelines t
 Website: [projectasap.github.io](https://projectasap.github.io)
 
 ### Projects
-- ASAPQuery — Drop-in accelerator for analytics queries *(coming soon)*
+- [ASAPQuery](https://github.com/ProjectASAP/ASAPQuery) — Drop-in accelerator for analytics queries *(coming soon)*
 - [FlinkSketch](https://github.com/ProjectASAP/FlinkSketch) — Democratizing sketch-based processing for Apache Flink
